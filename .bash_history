@@ -1,0 +1,2 @@
+git stactus
+git add .
